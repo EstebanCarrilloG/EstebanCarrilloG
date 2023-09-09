@@ -1,12 +1,12 @@
 # 💫 About Me:
 🔌 Electronics Technologist passionate about innovation and constant exploration. Always in pursuit of new knowledge and committed to sharing what I've learned.
-<br>
+<br/>
 💻 Enthusiastic programmer, I dive into the world of code to create solutions and bring ideas to life. My repository is a digital laboratory where I experiment and share my projects.
-<br>
+<br/>
 🚴‍♂️ Cycling and 🏃‍♂️ running are my two loves outside the screen. When I'm not programming, you'll find me pedaling on trails or covering kilometers on foot.
-<br>
+<br/>
 🌱 My motto: "Learn, teach, run, and ride." I believe in the importance of lifelong learning and maintaining a healthy balance between knowledge and physical activity.
-<br>
+<br/>
 Join me on this exciting journey where electronics, programming, and sports merge in a constant quest for challenges and achievements!
 
 

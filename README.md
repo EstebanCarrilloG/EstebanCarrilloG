@@ -18,7 +18,7 @@ Join me on this exciting journey where electronics, programming, and sports merg
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Estebancarrillog&show_icons=true&theme=prussian)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Estebancarrillog&hide_border=false&theme=prussian)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Estebancarrillog&layout=donut&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Estebancarrillog&layout=compact&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&langs_count=10)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Estebancarrillog&limit=5&theme=prussian&combine_all_yearly_contributions=true)
